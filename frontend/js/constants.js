@@ -1,9 +1,9 @@
 const contractAddress = "0xf36C99d2595640140a4191F1cEa596aDc4ba7759"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Fuzzy Cacti Co: Prickle Pear Edition Presale!!";
+const welcome_h1 = "Fuzzy Cacti Co: Prickly Pear Edition Presale";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Thank you for choosing a membership with us! Wallets analytics done right. Giving back with a Purpose.';
+const welcome_p = 'Wallet analytics done right. Giving back with a Purpose.';
 const h1_presale_coming_soon = "Pre-sale Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
