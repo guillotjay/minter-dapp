@@ -83,7 +83,8 @@ const PRESALE_WHITELISTED_ADDRESSES = [
     "0x344d5Dbece176db12123BB7E8a2126d7C2A18994",
     "0xeC92e88702004ab03c16b5147Df4dAff68d12261",
     "0x1ca4Ce0ed95466b35553B8aCC87f6a894c468418",
-    "0x329f366b3D9080db82861a6878ee3Cb3281660bb"
+    "0x329f366b3D9080db82861a6878ee3Cb3281660bb",
+    "0xeC92e88702004ab03c16b5147Df4dAff68d12261"
 ]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
