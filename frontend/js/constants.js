@@ -1,4 +1,4 @@
-const contractAddress = "0xf36C99d2595640140a4191F1cEa596aDc4ba7759"; //Replace with your own contract address
+const contractAddress = "0x5AEA8825ccc0bccD3852DF3839851938bFb06e24"; //Replace with your own contract address
 const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Fuzzy Cacti Co: Prickly Pear Edition Presale";

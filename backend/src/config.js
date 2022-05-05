@@ -67,10 +67,25 @@ const ROYALTY_SHARE = 1000; // Percentage of the token price that goes to the ro
 const ROYALTY_ADDRESS = "0xc5cBB1Feee7a45923aDaF681364Cc70677b6cCF6"; // Address that will receive the royalty
 const BASE_URI = null; // only update if you want to manually set the base uri
 const PREREVEAL_TOKEN_URI = null; // only update if you want to manually set the prereveal token uri
-const PRESALE_WHITELISTED_ADDRESSES = ["0xafd09e2087f5eC7bF97EA3E75F7072266f3E040C", "0x180d6d65AaaA0Eec8b51Ad0954941d734aa2E2b5", "0x5277da7E9A645D6e59745735332d8Af21a0887aD", "0xADe033b2f3cE7b57b6Eb2409C15A13A964071459", "0xc1F5e4bD4ff3074659AF627B37dB7b4314Bc74a5", "0x28dF4E0b31E9722473f3f14eF1E4eC03B6E8A7A1", "0x30ec86F66C3AB7F426D380F7165aC5cC66041D52", "0x4D55e5DE01d2b831798529f239Dbca55f0fd952e", "0xd0BFe7d3Ae40D1627b03A958c142826180867468", "0x44e87602B6c35112DCD79F0e67c8CB6E18ba620C", "0xfB4BeaCDB5f7C04829191ba34bEece044289Cda9", "0x0F14D1B9FeCC960EcF377F5177FaD4D9543a65A9", "0x344d5Dbece176db12123BB7E8a2126d7C2A18994"]; // only update if you want to manually set the whitelisted addresses
+const PRESALE_WHITELISTED_ADDRESSES = [
+    "0xafd09e2087f5eC7bF97EA3E75F7072266f3E040C",
+    "0x180d6d65AaaA0Eec8b51Ad0954941d734aa2E2b5",
+    "0x5277da7E9A645D6e59745735332d8Af21a0887aD",
+    "0xADe033b2f3cE7b57b6Eb2409C15A13A964071459",
+    "0xc1F5e4bD4ff3074659AF627B37dB7b4314Bc74a5",
+    "0x28dF4E0b31E9722473f3f14eF1E4eC03B6E8A7A1",
+    "0x30ec86F66C3AB7F426D380F7165aC5cC66041D52",
+    "0x4D55e5DE01d2b831798529f239Dbca55f0fd952e",
+    "0xd0BFe7d3Ae40D1627b03A958c142826180867468",
+    "0x44e87602B6c35112DCD79F0e67c8CB6E18ba620C",
+    "0xfB4BeaCDB5f7C04829191ba34bEece044289Cda9",
+    "0x0F14D1B9FeCC960EcF377F5177FaD4D9543a65A9",
+    "0x344d5Dbece176db12123BB7E8a2126d7C2A18994",
+    "0xeC92e88702004ab03c16b5147Df4dAff68d12261"
+]; // only update if you want to manually set the whitelisted addresses
 
 // ** OPTIONAL **
-let CONTRACT_ADDRESS = "YOUR CONTRACT ADDRESS"; // If you want to manually include it
+let CONTRACT_ADDRESS = "0x5AEA8825ccc0bccD3852DF3839851938bFb06e24"; // If you want to manually include it
 
 // Generic Metadata is optional if you want to reveal your NFTs
 const GENERIC = true; // Set to true if you want to upload generic metas and reveal the real NFTs in the future
